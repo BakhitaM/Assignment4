@@ -1,0 +1,10 @@
+{
+  "Courses": [
+    { "id": 1, "name": "REACT", "batch":[{"month":"December","status":"Booking closed","enquire":false},{"month":"January","status":"Open","enquire":true}] },
+    { "id": 2, "name": "JAVA", "batch":[{"month":"December","status":"Open","enquire":true},{"month":"January","status":"Open","enquire":false}] },
+    { "id": 3, "name": "ANGULAR", "batch":[{"month":"December","status":"Booking closed","enquire":false},{"month":"January","status":"Open","enquire":false}] },
+    { "id": 4, "name": "JAVASCRIPT", "batch":[{"month":"December","status":"Open","enquire":false},{"month":"January","status":"Open","enquire":false}] },
+    { "id": 5, "name": "DOT NET", "batch":[{"month":"December","status":"Booking closed","enquire":false},{"month":"January","status":"Open","enquire":false}] }
+
+  ]
+}
